@@ -60,6 +60,5 @@ D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug
 D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\EntityFramework.SqlServer.xml
 D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\obj\Debug\Reindawn.Domain.csprojResolveAssemblyReference.cache
 D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\obj\Debug\Reindawn.Domain.dll
 D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\obj\Debug\Reindawn.Domain.pdb

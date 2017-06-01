@@ -68,9 +68,11 @@
     <Compile Include="Helper\EnumHelper.cs" />
     <Compile Include="Models\AccountType.cs" />
     <Compile Include="Models\Business.cs" />
+    <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Country.cs" />
     <Compile Include="Models\DisasterLocation.cs" />
     <Compile Include="Models\News.cs" />
+    <Compile Include="Models\Post.cs" />
     <Compile Include="Models\Role.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -41,11 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractEntityService.cs" />
+    <Compile Include="CommentService.cs" />
     <Compile Include="DisasterLocationService.cs" />
     <Compile Include="IdentityHelper\IdentityExtensions.cs" />
     <Compile Include="NewsService.cs" />
     <Compile Include="AccountTypeService.cs" />
     <Compile Include="IEntityService.cs" />
+    <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
