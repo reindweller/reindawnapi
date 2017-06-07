@@ -49,6 +49,7 @@
     <Compile Include="IEntityService.cs" />
     <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocialMedia\Reddit.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Reindawn.Domain\Reindawn.Domain.csproj">

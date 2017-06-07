@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reindawn.Service", "Reindaw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reindawn.Utilities", "Reindawn.Utilities\Reindawn.Utilities.csproj", "{4372BDC6-726E-49C9-B211-321AAF925782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReindawnApiProject", "ReindawnApi\ReindawnApiProject.csproj", "{2B3ECD97-3E02-4496-9ED8-58D77957AA4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReindawnApi", "ReindawnApi\ReindawnApi.csproj", "{2B3ECD97-3E02-4496-9ED8-58D77957AA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
