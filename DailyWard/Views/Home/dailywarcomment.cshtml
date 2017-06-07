@@ -1,0 +1,315 @@
+﻿
+@{
+    ViewBag.Title = "dailywarcomment";
+}
+
+<h2>dailywarcomment</h2>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Daily Ward</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/Site.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            padding-top: 70px;
+            /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+        }
+    </style>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Daily Ward</a>
+            </div>
+            <div>
+                <div id="LoggedInDiv">
+                    <!-- Top Menu Items -->
+                    <ul class="nav navbar-right top-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-envelope"></i> <b class="caret"></b></a>
+                            <ul class="dropdown-menu message-dropdown">
+                                <li class="message-preview">
+                                    <a href="#">
+                                        <div class="media">
+                                            <span class="pull-left">
+                                                <img class="media-object" src="http://placehold.it/50x50" alt="">
+                                            </span>
+                                            <div class="media-body">
+                                                <h5 class="media-heading">
+                                                    <strong>John Smith</strong>
+                                                </h5>
+                                                <p class="small text-muted"><i class="fa fa-clock-o"></i> Yesterday at 4:32 PM</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur...</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="message-preview">
+                                    <a href="#">
+                                        <div class="media">
+                                            <span class="pull-left">
+                                                <img class="media-object" src="http://placehold.it/50x50" alt="">
+                                            </span>
+                                            <div class="media-body">
+                                                <h5 class="media-heading">
+                                                    <strong>John Smith</strong>
+                                                </h5>
+                                                <p class="small text-muted"><i class="fa fa-clock-o"></i> Yesterday at 4:32 PM</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur...</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="message-preview">
+                                    <a href="#">
+                                        <div class="media">
+                                            <span class="pull-left">
+                                                <img class="media-object" src="http://placehold.it/50x50" alt="">
+                                            </span>
+                                            <div class="media-body">
+                                                <h5 class="media-heading">
+                                                    <strong>John Smith</strong>
+                                                </h5>
+                                                <p class="small text-muted"><i class="fa fa-clock-o"></i> Yesterday at 4:32 PM</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur...</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="message-footer">
+                                    <a href="#">Read All New Messages</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-bell"></i> <b class="caret"></b></a>
+                            <ul class="dropdown-menu alert-dropdown">
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-default">Alert Badge</span></a>
+                                </li>
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-primary">Alert Badge</span></a>
+                                </li>
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-success">Alert Badge</span></a>
+                                </li>
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-info">Alert Badge</span></a>
+                                </li>
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-warning">Alert Badge</span></a>
+                                </li>
+                                <li>
+                                    <a href="#">Alert Name <span class="label label-danger">Alert Badge</span></a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#">View All</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span id="UserSpan">Arvin Macaso</span> <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#"><i class="fa fa-fw fa-user"></i> Profile</a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-fw fa-envelope"></i> Inbox</a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-fw fa-gear"></i> Settings</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#"><i class="fa fa-fw fa-power-off"></i> Log Out</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div id="LoggedOutDiv">
+                    <!-- Top Menu Items -->
+                    <ul class="nav navbar-right top-nav">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-user"></i> <span>Login</span> </a>
+                        </li>
+                        <li>
+                            <a href="register.html"><i class="fa fa-file-text"></i> Register </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+        <div id="page-wrapper">
+            <div class="col-lg-10" id="PostDiv">
+                <div class="media">
+                    <i href="#" class="pull-left">
+                        <img src="Images/default-thumb70x70.png" class="media-photo">
+                    </i>
+                    <div class="media-body">
+                        <div class="title" id="PostTitle">
+                            Lorem Impsum
+                        </div>
+                        <div id="PostMessage">Ut enim ad minim veniam, quis nostrud exercitation...</div>
+                        <div>
+                            <p>
+                                <button type="button" class="btn btn-xs btn-default">123 comments</button>
+                                <button type="button" class="btn btn-xs btn-default">share</button>
+                                <button type="button" class="btn btn-xs btn-default">Default</button>
+                                <span class="badge">just now</span>
+                            </p>
+                        </div>
+                    </div>
+                    <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/XWa2wu1Is6Q" frameborder="0" allowfullscreen></iframe>-->
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div id="RegisterDiv">
+
+                </div>
+                <div id="ActionDiv" style="display:none">
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#PostModal">Submit New Link</button><br />
+                </div>
+            </div>
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+
+
+
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <form role="form">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input type="text" id="EmailReg" placeholder="Username" class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="PasswordReg" placeholder="Password" class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="ConfirmPasswordReg" placeholder="Confirm Password" class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="EmailReg" placeholder="Email" class="form-control" />
+                                </div>
+                                <button type="button" class="btn btn-default pull-right">Register</button>
+                            </div>
+                            <div class="col-lg-6">
+
+                                <div class="modal-body">
+                                    <div class="form-group">
+                                        <input type="text" id="email" placeholder="Username" class="form-control" />
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" id="password" placeholder="Password" class="form-control" />
+                                    </div>
+                                    <button type="button" class="btn btn-default pull-right" onclick="login();">Login</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+
+
+                        <button type="button" class="btn btn-primary" onclick="post();">Submit</button><br />
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+
+
+    <!-- jQuery Version 1.11.1 -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            getpost();
+        });
+
+        function getpost() {
+            $.ajax({
+                url: "api/post/get",
+                type: 'GET',
+                dataType: 'json',
+                data: { id: 1},
+                success: function (result) {
+
+                    $("#PostTitle").html(result.Title);
+                    $("#PostMessage").html(result.Message);
+
+                    for (i = 0; i < result.Comments.length; i++) {
+                        $("#PostDiv").append("<div class=\"media\">" +
+                    "<i href=\"#\" class=\"pull-left\">" +
+                    "<img src=\"" + result[i].Url + "\" class=\"media-photo\" width=\"70\" >" +
+                    "</i>" +
+                    "<div class=\"media-body\">" +
+                    "<div class=\"title\">" +
+                    result[i].Title +
+                    "</div>" +
+                    "<div>Ut enim ad minim veniam, quis nostrud exercitation...</div>" +
+                    "<div>" +
+                    "<p>" +
+                    "<button type=\"button\" class=\"btn btn-xs btn-default\">123 comments</button>" +
+                    "<button type=\"button\" class=\"btn btn-xs btn-default\">share</button>" +
+                    "<button type=\"button\" class=\"btn btn-xs btn-default\">Default</button>" +
+                    "<span class=\"badge\">just now</span>" +
+                    "</p>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>");
+                    }
+
+                },
+                fail: function (jqXHR, textStatus, err) {
+                    console.log(err);
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>
