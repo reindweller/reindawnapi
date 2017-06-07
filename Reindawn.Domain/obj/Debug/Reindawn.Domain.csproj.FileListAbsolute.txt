@@ -49,16 +49,3 @@ D:\Arvin\Projects\git\Reindawn - API\Reindawn.Domain\bin\Debug\Microsoft.AspNet.
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Domain\obj\Debug\Reindawn.Domain.dll
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Domain\obj\Debug\Reindawn.Domain.pdb
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Reindawn.Domain.dll.config
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Reindawn.Domain.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Reindawn.Domain.pdb
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\EntityFramework.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\EntityFramework.SqlServer.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\EntityFramework.xml
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\EntityFramework.SqlServer.xml
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\obj\Debug\Reindawn.Domain.dll
-D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Domain\obj\Debug\Reindawn.Domain.pdb
