@@ -60,3 +60,21 @@ D:\Arvin\Projects\git\Reindawn - API\Reindawn.Repository\obj\Debug\Reindawn.Repo
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Repository\obj\Debug\Reindawn.Repository.pdb
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Repository\obj\Debug\Reindawn.Repository.Migrations.adddisaster.resources
 D:\Arvin\Projects\git\Reindawn - API\Reindawn.Repository\obj\Debug\Reindawn.Repository.csproj.GenerateResource.Cache
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Reindawn.Repository.dll.config
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Reindawn.Repository.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Reindawn.Repository.pdb
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\EntityFramework.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Reindawn.Domain.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Reindawn.Domain.pdb
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\EntityFramework.xml
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\obj\Debug\Reindawn.Repository.csprojResolveAssemblyReference.cache
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\obj\Debug\Reindawn.Repository.Migrations.adddisaster.resources
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\obj\Debug\Reindawn.Repository.csproj.GenerateResource.Cache
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\obj\Debug\Reindawn.Repository.dll
+D:\Arvin\Projects\reindawn projects\reindawnapi-master\Reindawn.Repository\obj\Debug\Reindawn.Repository.pdb

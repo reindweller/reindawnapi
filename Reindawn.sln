@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reindawn.Service", "Reindaw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reindawn.Utilities", "Reindawn.Utilities\Reindawn.Utilities.csproj", "{4372BDC6-726E-49C9-B211-321AAF925782}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyWard", "DailyWard\DailyWard.csproj", "{CCF4F5E7-6D48-4FC8-8DDF-51BB68A7334B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4372BDC6-726E-49C9-B211-321AAF925782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4372BDC6-726E-49C9-B211-321AAF925782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4372BDC6-726E-49C9-B211-321AAF925782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF4F5E7-6D48-4FC8-8DDF-51BB68A7334B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF4F5E7-6D48-4FC8-8DDF-51BB68A7334B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF4F5E7-6D48-4FC8-8DDF-51BB68A7334B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF4F5E7-6D48-4FC8-8DDF-51BB68A7334B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
