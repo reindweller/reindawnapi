@@ -49,7 +49,6 @@
     <Compile Include="IEntityService.cs" />
     <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SocialMedia\Reddit.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Reindawn.Domain\Reindawn.Domain.csproj">
@@ -60,6 +59,9 @@
       <Project>{25348a69-8a6d-4710-b82d-0bc0e32e3857}</Project>
       <Name>Reindawn.Repository</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SocialMedia\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
